@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Room Example</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+</resources>
